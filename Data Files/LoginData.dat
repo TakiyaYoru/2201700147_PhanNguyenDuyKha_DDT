@@ -7,11 +7,11 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>33c86980-c27e-4a04-8f2e-c1433bc2dab8</dataFileGUID>
-   <dataSourceUrl></dataSourceUrl>
+   <dataSourceUrl>/Users/takiyayoru941/Desktop/LoginData.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName></sheetName>
+   <sheetName>Sheet1</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>

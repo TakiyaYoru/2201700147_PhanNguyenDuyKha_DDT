@@ -6,11 +6,12 @@
    <UUID>16785fd1-5b58-40dc-92cf-efce5cacf82b</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>10.4.3</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>10.4.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/takiyayoru941/Katalon Studio/2201700147_PhanNguyenDuyKha_DDT/2201700147_PhanNguyenDuyKha_DDT.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
